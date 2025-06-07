@@ -31,6 +31,7 @@ You can download the 2006 flight data from Kaggle:
 Please refer to the instructions in [`data/README.md`](./data/README.md) for how to load it into Hive.
 
 ---
-
+## 📘 Full Analysis Summary
+ [Go to Full Analysis Summary](docs/Analysis_Summary.md)
 
 
