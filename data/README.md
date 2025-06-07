@@ -1,4 +1,4 @@
-# Data Usage Instructions / 数据使用说明
+# Data Usage Instructions
 
 The full airline dataset for 2006 is too large (~600MB) to include in this GitHub repository.
 
